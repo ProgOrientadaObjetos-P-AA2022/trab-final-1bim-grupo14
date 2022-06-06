@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ArchivoLecturaCiudad {
+public final class ArchivoLecturaCiudad {
 
     private Scanner entrada;
     private String nombreArchivo;

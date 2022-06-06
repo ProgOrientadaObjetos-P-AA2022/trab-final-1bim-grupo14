@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Formatter;
 
-public class ArchivoEscrituraCiudad {
+public final class ArchivoEscrituraCiudad {
 
     private String nombreArchivo;
     private String rutaArchivo;

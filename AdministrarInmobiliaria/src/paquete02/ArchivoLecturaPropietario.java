@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ArchivoLecturaPropietario {
+public final  class ArchivoLecturaPropietario {
 
     private Scanner entrada;
     private String nombreArchivo;
