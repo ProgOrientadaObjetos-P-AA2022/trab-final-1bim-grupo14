@@ -1,27 +1,27 @@
-package paqueteuno;
+package paquete01;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
-import paquetedos.Propietario;
-import paquetedos.ArchivoEscrituraPropietario;
-import paquetedos.ArchivoLecturaPropietario;
-import paquetetres.Ubicacion;
-import paquetetres.ArchivoEscrituraUbicacion;
-import paquetetres.ArchivoLecturaUbicacion;
-import paquetecuatro.Ciudad;
-import paquetecuatro.ArchivoEscrituraCiudad;
-import paquetecuatro.ArchivoLecturaCiudad;
-import paquetecinco.Constructora;
-import paquetecinco.ArchivoEscrituraConstructora;
-import paquetecinco.ArchivoLecturaConstructora;
-import paqueteseis.Casa;
-import paqueteseis.ArchivoEscrituraCasa;
-import paqueteseis.ArchivoLecturaCasa;
-import paqueteseis.Departamento;
-import paqueteseis.ArchivoEscrituraDepartamento;
-import paqueteseis.ArchivoLecturaDepartamento;
+import paquete02.Propietario;
+import paquete02.ArchivoEscrituraPropietario;
+import paquete02.ArchivoLecturaPropietario;
+import paquete03.Ubicacion;
+import paquete03.ArchivoEscrituraUbicacion;
+import paquete03.ArchivoLecturaUbicacion;
+import paquete04.Ciudad;
+import paquete04.ArchivoEscrituraCiudad;
+import paquete04.ArchivoLecturaCiudad;
+import paquete05.Constructora;
+import paquete05.ArchivoEscrituraConstructora;
+import paquete05.ArchivoLecturaConstructora;
+import paquete06.Casa;
+import paquete06.ArchivoEscrituraCasa;
+import paquete06.ArchivoLecturaCasa;
+import paquete06.Departamento;
+import paquete06.ArchivoEscrituraDepartamento;
+import paquete06.ArchivoLecturaDepartamento;
 
 public class Ejecutor {
 

@@ -1,10 +1,10 @@
-package paqueteseis;
+package paquete06;
 
 import java.util.ArrayList;
-import paquetecinco.Constructora;
-import paquetecuatro.Ciudad;
-import paquetedos.Propietario;
-import paquetetres.Ubicacion;
+import paquete05.Constructora;
+import paquete04.Ciudad;
+import paquete02.Propietario;
+import paquete03.Ubicacion;
 
 public class Casa {
 

@@ -1,4 +1,4 @@
-package paquetetres;
+package paquete03;
 
 public class Ubicacion {
 

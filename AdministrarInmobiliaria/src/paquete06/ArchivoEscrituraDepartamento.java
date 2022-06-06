@@ -1,4 +1,4 @@
-package paqueteseis;
+package paquete06;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;

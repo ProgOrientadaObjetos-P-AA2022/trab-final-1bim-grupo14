@@ -1,4 +1,4 @@
-package paquetetres;
+package paquete03;
 
 import java.io.File;
 import java.io.FileNotFoundException;

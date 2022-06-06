@@ -1,4 +1,4 @@
-package paquetedos;
+package paquete02;
 
 import java.io.File;
 import java.io.FileNotFoundException;
